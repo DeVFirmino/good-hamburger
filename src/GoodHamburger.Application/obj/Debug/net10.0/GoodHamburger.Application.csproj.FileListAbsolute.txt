@@ -1,0 +1,15 @@
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/bin/Debug/net10.0/GoodHamburger.Application.deps.json
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/bin/Debug/net10.0/GoodHamburger.Application.dll
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/bin/Debug/net10.0/GoodHamburger.Application.pdb
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/bin/Debug/net10.0/GoodHamburger.Domain.dll
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/bin/Debug/net10.0/GoodHamburger.Domain.pdb
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.csproj.AssemblyReference.cache
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.AssemblyInfoInputs.cache
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.AssemblyInfo.cs
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.csproj.CoreCompileInputs.cache
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamb.630BA540.Up2Date
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.dll
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/refint/GoodHamburger.Application.dll
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/GoodHamburger.Application.pdb
+/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/obj/Debug/net10.0/ref/GoodHamburger.Application.dll

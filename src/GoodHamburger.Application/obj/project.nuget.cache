@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfR+/rmGvmg=",
+  "success": true,
+  "projectFilePath": "/Users/danielfirmino/RiderProjects/good-hamburger/good-hamburger/src/GoodHamburger.Application/GoodHamburger.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielfirmino/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
