@@ -10,7 +10,12 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddInfrastructure(this IServiceCollection services, string connectionString)
     {
-        services.AddDbContext<AppDbContext>(options => options.UseSqlite(connectionString));
+        return services.AddInfrastructure(options => options.UseSqlite(connectionString));
+    }
+
+    public static IServiceCollection AddInfrastructure(this IServiceCollection services, Action<DbContextOptionsBuilder> configureDb)
+    {
+        services.AddDbContext<AppDbContext>(configureDb);
 
         services.AddScoped<IOrderRepository, OrderRepository>();
         services.AddScoped<IMenuItemRepository, MenuItemRepository>();
