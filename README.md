@@ -1,8 +1,8 @@
 # Good Hamburger API
 
-REST API for managing orders at a small burger restaurant. Built as a .NET technical
-challenge: full CRUD over orders, a menu catalog, and a discount engine that applies a
-combo rule when an order contains items from specific categories.
+Add a combo to an order to see how the .NET API calculates the discount. Each
+order item stores the price from the menu when it’s added, so the order keeps
+that price if the menu changes.
 
 ## Discount rules
 
